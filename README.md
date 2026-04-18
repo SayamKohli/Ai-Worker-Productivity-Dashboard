@@ -1,5 +1,12 @@
 # 🏭 AI-Powered Worker Productivity Dashboard
 
+## ⚠️ Note
+
+Backend is hosted on Render free tier.  
+First request may take 30–60 seconds due to cold start.
+
+---
+
 ## 📌 Overview
 
 This project is a full-stack web application that simulates a manufacturing factory environment where AI-powered CCTV systems generate structured worker activity events.
