@@ -359,3 +359,13 @@ SQLite was used to:
 
 This tradeoff ensures a working, testable system while keeping the architecture extensible for future scaling.
 
+---
+
+## 🌐 Live Application
+
+- Frontend (Dashboard): https://ai-worker-productivity-dashboard-three.vercel.app/
+- Backend API: https://ai-worker-productivity-dashboard-backend.onrender.com
+
+### Sample API
+- GET /metrics → https://ai-worker-productivity-dashboard-backend.onrender.com/metrics
+
