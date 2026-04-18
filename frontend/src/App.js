@@ -47,15 +47,6 @@ function App() {
         </div>
       )}
 
-      {/* ⏳ Loader */}
-      {loading && (
-        <div className="loader">
-          <p>Loading data...</p>
-          <small>
-            Backend is on Render free tier — first request may take up to 60 seconds.
-          </small>
-        </div>
-      )}
 
       <h1>AI Worker Productivity Dashboard</h1>
 
